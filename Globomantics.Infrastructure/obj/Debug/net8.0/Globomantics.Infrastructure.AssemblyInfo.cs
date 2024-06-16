@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Globomantics.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c025ed722c728c315ef5edc9097f421033fe5f60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1bf954314fac77193cbb55f019157c78b8d2fb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Globomantics.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Globomantics.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
