@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Globomantics.Windows
-build_property.ProjectDir = C:\Users\Sati\OneDrive - PXL\Bureaublad\PluralSight\02\demos\Start_Here\Globomantics.Windows\
+build_property.ProjectDir = C:\Users\Sati\OneDrive - PXL\Bureaublad\PluralSight\Globomantics\Globomantics.Windows\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

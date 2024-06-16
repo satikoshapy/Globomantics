@@ -1,4 +1,4 @@
-﻿namespace Globomantics.Domain
+﻿namespace Globomantics.Infrastructure
 {
     public class Class1
     {

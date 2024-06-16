@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Domain\\Globomantics.Domain.csproj": {}
+    "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Domain\\Globomantics.Domain.csproj": {
+    "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Domain\\Globomantics.Domain.csproj",
-        "projectName": "Globomantics.Domain",
-        "projectPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Domain\\Globomantics.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj",
+        "projectName": "Globomantics.Infrastructure",
+        "projectPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Sati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sati\\AppData\\Roaming\\NuGet\\NuGet.Config",

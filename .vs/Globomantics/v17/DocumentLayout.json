@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\",
+  "WorkspaceRootPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B14115D0-9B59-4052-9F95-1AF870C7CEA5}|Globomantics.Domain\\Globomantics.Domain.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\02\\demos\\start_here\\globomantics.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14115D0-9B59-4052-9F95-1AF870C7CEA5}|Globomantics.Domain\\Globomantics.Domain.csproj|solutionrelative:globomantics.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\02\\demos\\start_here\\globomantics.windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\globomantics.windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\02\\demos\\start_here\\globomantics.windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B14115D0-9B59-4052-9F95-1AF870C7CEA5}|Globomantics.Domain\\Globomantics.Domain.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\globomantics\\globomantics.domain\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14115D0-9B59-4052-9F95-1AF870C7CEA5}|Globomantics.Domain\\Globomantics.Domain.csproj|solutionrelative:globomantics.domain\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2830818-FDBC-4CB7-8F31-6705D56AFBCB}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\globomantics\\globomantics.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2830818-FDBC-4CB7-8F31-6705D56AFBCB}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\globomantics.windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\02\\demos\\start_here\\globomantics.windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\globomantics.windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\02\\demos\\start_here\\globomantics.windows\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\globomantics.windows\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\pluralsight\\02\\demos\\start_here\\globomantics.windows\\usercontrols\\bugcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\globomantics.windows\\usercontrols\\bugcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\usercontrols\\bugcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,79 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Globomantics.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Domain\\Class1.cs",
-              "RelativeToolTip": "Globomantics.Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Domain\\TodoTask.cs",
+              "RelativeDocumentMoniker": "Globomantics.Domain\\TodoTask.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Domain\\TodoTask.cs",
+              "RelativeToolTip": "Globomantics.Domain\\TodoTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T14:13:19.01Z",
+              "WhenOpened": "2024-06-16T14:44:29.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:37:05.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\App.xaml.cs",
               "RelativeDocumentMoniker": "Globomantics.Windows\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\App.xaml.cs",
               "RelativeToolTip": "Globomantics.Windows\\App.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA8AAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T13:53:51.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Globomantics.Windows\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\MainWindow.xaml.cs",
               "RelativeToolTip": "Globomantics.Windows\\MainWindow.xaml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:49:38.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Globomantics.Windows\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "Globomantics.Windows\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:48:13.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T13:49:38.546Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BugControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\UserControls\\BugControl.xaml",
-              "RelativeDocumentMoniker": "Globomantics.Windows\\UserControls\\BugControl.xaml",
-              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\UserControls\\BugControl.xaml",
-              "RelativeToolTip": "Globomantics.Windows\\UserControls\\BugControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-16T13:44:50.654Z",
-              "EditorCaption": ""
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Globomantics.Windows\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:48:13.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "BugControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\UserControls\\BugControl.xaml",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\UserControls\\BugControl.xaml",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\UserControls\\BugControl.xaml",
+              "RelativeToolTip": "Globomantics.Windows\\UserControls\\BugControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T13:44:50.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Globomantics.Windows\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\Globomantics\\Globomantics.Windows\\MainWindow.xaml",
               "RelativeToolTip": "Globomantics.Windows\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-16T13:42:45.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T13:42:45.719Z"
             }
           ]
         }
