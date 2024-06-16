@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GdS6ahp/OHSGI3RIsW5zujAc0IfRivdqijZ7wVUldE2Qj7zXTxMhdwu+5E2O1njVLnGwenjxgNzarG0eIcYwZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\PluralSight\\02\\demos\\Start_Here\\Globomantics.Windows\\Globomantics.Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sati\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\Sati\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sati\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sati\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sati\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sati\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sati\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
